@@ -1,0 +1,59 @@
+[{
+    "id": 1,
+    "coursename": "Learn English Online – with the world's English experts",
+    "image": "https://stupefied-brown-c26fae.netlify.app/image/16%20(1).png",
+    "coursefee":1250,
+    "coursedetails":"Study English online with us and take control of your and your family's learning.Designed by English experts, our online English classes and courses provide a safe, inclusive learning community.",
+   "email":"bfeathersbyb@fema.gov"
+  }, 
+  {
+    "id": 2,
+    "coursename":"Learning time with Timmy",
+    "image": "https://stupefied-brown-c26fae.netlify.app/image/16%20(2).png",
+    "coursefee":1000,
+      "coursedetails":"Being confident in English can give your child an early advantage at school, helping them make the most of the education, qualifications and career opportunities that lie ahead.",
+    "email": "cloade1@mayoclinic.com"
+  },
+   {
+    "id": 3,
+    "coursename": "English For Childern",
+    "image": "https://stupefied-brown-c26fae.netlify.app/image/16%20(3).png",
+    "coursefee": 3000,
+      "coursedetails":"Our courses have been specifically designed around the unique way children learn and are taught by experienced teachers who are passionate about the English language and experts in teaching children.",
+    "email": "cstrippling2@youku.com"
+  }, {
+    "id": 4,
+    "coursename": "English For Teenager",
+    "image": "https://stupefied-brown-c26fae.netlify.app/image/16%20(4).png",
+    "coursefee": 3000,
+      "coursedetails":"Being confident with your English can enhance your life in so many ways. It can improve your social life and career prospects, and can even help you make the most out of the internet.",
+    "email": "shoyland3@adobe.com"
+  },{
+    "id": 5,
+    "coursename": "English For Adult",
+    "image": "https://stupefied-brown-c26fae.netlify.app/image/16%20(5).png",
+    "coursefee": 5000,
+      "coursedetails":"We offer a wide range of flexible courses, so whether you’re an absolute beginner or want to top up your English skills and become an expert speaker, we’ve got the right course for you.",
+    "email": "gjuara4@ca.gov"
+  }, {
+    "id": 6,
+    "coursename": "English For University Students",
+    "image": "https://stupefied-brown-c26fae.netlify.app/image/16%20(9).png",
+    "coursefee": 2300,
+      "coursedetails":"As the world’s English experts, no one is better qualified to get you closer to the English language and help you make the most of your educational opportunities",
+    "email": "wminucci5@nature.com"
+  }, {
+    "id": 7,
+    "coursename": "English of Freelancing",
+    "image": "https://stupefied-brown-c26fae.netlify.app/image/16%20(7).png",
+    "coursefee": 3000,
+      "coursedetails":"Freelancers need to have an excellent hold on the English language, right? A misconception. Let me explain it. If you are working as a content writer or an offshore customer service executive for English-speaking or international clients.",
+    "email": "rchurchley6@unblog.fr"
+  }, {
+    "id": 8,
+    "coursename": "English For Communication",
+    "image": "https://stupefied-brown-c26fae.netlify.app/image/16%20(8).png",
+    "coursefee": 4000,
+      "coursedetails":"Our flexible courses and online resources are specially designed to help improve all your English skills and get you on the path to a successful future.",
+    "email": "cvandalen7@angelfire.com"
+  }]
