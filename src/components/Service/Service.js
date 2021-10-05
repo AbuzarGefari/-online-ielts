@@ -15,10 +15,11 @@ const Service = () => {
       </div>
       <div className="teams">
         <div div className = "row row-cols-1 row-cols-md-2 g-4" >
-          {services?.map((service) => (
+            {services?.map((service) => (
+          
            <div class="col">
     <div class="card bg-dark">
-      <img src={service.image} class="card-img-top bg-info" alt="..."/>
+      <img src={service.image} class="card-img-top cart" alt="..."/>
       <div class="card-body">
                           <h5 class="card-title text-white">{service.coursename}</h5>
                           <p class="card-text text-white">{service.coursedetails}</p>

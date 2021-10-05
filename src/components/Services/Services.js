@@ -18,11 +18,11 @@ const Services = () => {
         <div div className = "row row-cols-1 row-cols-md-2 g-4" >
           {servicess?.map((service) => (
            <div class="col">
-    <div class="card bg-dark">
-      <img src={service.image} class="card-img-top bg-info" alt="..."/>
-      <div class="card-body">
-                          <h5 class="card-title text-white">{service.coursename}</h5>
-                          <p class="card-text text-white">{service.coursedetails}</p>
+    <div className="card bg-dark">
+      <img src={service.image}  className="card-img-top cart" alt="..."/>
+      <div className="card-body">
+                          <h5 className="card-title text-white">{service.coursename}</h5>
+                          <p className="card-text text-white">{service.coursedetails}</p>
                           <p className="text-white">Course Fee :{service.coursefee} Taka</p>
       </div>
     </div>

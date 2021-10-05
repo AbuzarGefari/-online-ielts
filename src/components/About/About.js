@@ -11,7 +11,7 @@ const About = () => {
  <div div className = "row bg-gray" >
       <div div className = "col-md-6" >
        
-        <ul ul className = "bg-dark text-white" >
+        <ul ul className = "cart text-dark" >
           <li className="fs-5 ">The International English Language Testing System (IELTS) is the world’s most popular high-stakes English language proficiency test for study, work and migration, with more than three million tests taken in the past year.</li>
           <li li className = "fs-5 " >
             The IELTS results are recognised by more than 10, 000 organisations, including educational institutions, employers, professional associations and governments, in 140 countries around the world.

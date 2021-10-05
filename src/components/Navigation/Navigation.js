@@ -2,6 +2,7 @@ import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 import "./Navigation.css"
+import logo from '../../image/image.png'
 
 const Navigation = () => {
    const linkStyle = {
@@ -18,7 +19,7 @@ const Navigation = () => {
       <Navbar bg="dark" expand="lg">
         <Container>
           <NavLink style={linkStyle} to="/home">
-           <Navbar.Brand className="text-white">Education</Navbar.Brand>
+           <Navbar.Brand className="text-white"><img  className="logo" src={logo} alt="" /></Navbar.Brand>
           </NavLink>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">

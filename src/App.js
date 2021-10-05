@@ -14,13 +14,14 @@ import Services from './components/Services/Services';
 import Teacher from './components/Footer/Teacher/Teacher';
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
+import Navigation from './components/Navigation/Navigation';
 
 
 function App() {
   return (
    <div className="full-body">
       <Router>
-       <Header></Header>
+       <Navigation></Navigation>
         <Switch>
           <Route exact path="/">
         <Home></Home>
